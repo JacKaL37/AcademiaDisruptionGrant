@@ -7,7 +7,8 @@
   - [ ] fold in astera constraints
   - [ ] fold in project knowledge-base
   - [ ] fold in supporting concepts from Astera author's book
-- [ ] (-) Create a checklist of all the necessary documents to be completed. 👈 <:SparkleL:933145903102038027> 
+- [X] Create a checklist of all the necessary documents to be completed. 
+    - [`Proposal proper` checklist](https://github.com/JacKaL37/AcademiaDisruptionGrant/blob/main/asterra_org_proposal_docs.md) :Sparkles: 
 
 ## Prep for 'bot reviewer' 
 - [ ] Create  secondary text documents with information about the website, project, and organization.
