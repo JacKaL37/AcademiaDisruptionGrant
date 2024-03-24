@@ -8,7 +8,7 @@
   - [ ] fold in project knowledge-base
   - [ ] fold in supporting concepts from Astera author's book
 - [X] Create a checklist of all the necessary documents to be completed. 
-    - [`Proposal proper` checklist](https://github.com/JacKaL37/AcademiaDisruptionGrant/blob/main/asterra_org_proposal_docs.md) :Sparkles: 
+    - [`Proposal proper` checklist](https://github.com/JacKaL37/AcademiaDisruptionGrant/blob/main/asterra_org_proposal_docs.md) ✨ 
 
 ## Prep for 'bot reviewer' 
 - [ ] Create  secondary text documents with information about the website, project, and organization.
