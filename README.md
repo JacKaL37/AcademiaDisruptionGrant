@@ -1,1 +1,1 @@
-# ScienceEducationDisruptionGrant
+# AcademiaDisruptionGrant
